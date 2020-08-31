@@ -12,3 +12,10 @@ body {
 .redDigit {
   color: red;
 }
+
+button {
+  height: 50px;
+  width: 100px;
+  background-color: red;
+  display: block;
+}
